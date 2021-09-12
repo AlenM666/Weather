@@ -1,6 +1,7 @@
 const api = {
   key: "e2d30ea3faeff7c310f2ba7703ac1adf",
-  base: "http://api.openweathermap.org/data/2.5/"
+  base: "https://weather-app-five-gold.vercel.app/"
+  //base: "http://api.openweathermap.org/data/2.5/"
 }
 
 const searchbox = document.querySelector('.search-box');
